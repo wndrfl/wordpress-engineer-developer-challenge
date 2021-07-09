@@ -4,6 +4,10 @@ The purpose of this challenge is to test and measure a WordPress engineer's abil
 ## The Story
 A private airplane broker would like to run a marketing campaign aimed at attracting pilots and building a community of flying enthusiasts. This campaign directs prospects to a landing page that allows them to upload a CSV of their favorite airports. The CSV is then ingested and "turned into" a shareable public map that showcases the user's provided airports, according to their latitude and longitude.
 
+## The Design
+The design is available at this URL:
+https://www.figma.com/file/Q5gVQnqVP3lpNBWratzbMm/Wonderful-WordPress-Engineer-Code-Challenge?node-id=0%3A1
+
 ## Expected Delivery
 - a url to view your webpage
 - a reviewable copy of the codebase
